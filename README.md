@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/willjharmer/neural.svg?branch=develop)](https://travis-ci.org/willjharmer/neural) 
+
+[![Coverage Status](https://coveralls.io/repos/willjharmer/neural/badge.svg)](https://coveralls.io/r/willjharmer/neural)
+
 # Neural
 
 A library of neural nets with an open API developed for embedding into an MLAAS platform.
